@@ -15,7 +15,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "tech.arnav.expo.sample.try"
     },
     "android": {
       "adaptiveIcon": {
